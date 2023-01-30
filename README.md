@@ -10,5 +10,5 @@ We can also use this script to check the log files, such as -
 <li>yum logs </li>
 <li>and many more </li>
 
-
+```
 The script file is given in the repository as <b><i>script.sh</b></i> 
