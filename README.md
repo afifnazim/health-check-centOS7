@@ -8,7 +8,19 @@ We can also use this script to check the log files, such as -
 <li>cron logs </li>
 <li>dmesg logs </li>
 <li>yum logs </li>
-<li>and many more </li>
+<li>and many more </li> <br></br>
 
+The script file is given in the repository as - 
 ```
-The script file is given in the repository as <b><i>script.sh</b></i> 
+script.sh
+```
+
+Change the value of the script so that it can be executable - 
+```
+chmod 700 script.sh
+```
+
+Run the script using below command - 
+```
+bash script.sh
+```
